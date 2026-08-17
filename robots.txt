@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ypgelb.salamkita.sbs/sitemap.xml
